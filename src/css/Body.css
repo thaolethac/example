@@ -1,0 +1,22 @@
+.auto-fill {
+    display: flex;
+}
+select {
+
+}
+input {
+    margin : 10px;
+}
+table,tbody,thead,td {
+    text-align:center
+}
+table,td {
+    border: 1px solid #333
+}
+thead td {
+    padding: 5px
+}
+thead button {
+    padding: 0px 10px 0px 10px;
+    font-size: 20px;
+}
